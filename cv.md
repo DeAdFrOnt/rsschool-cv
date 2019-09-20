@@ -7,15 +7,15 @@
 
 3. My goal's to become Front-end dev at the end of it's all.
 
-Glad to meet and be friends with many good people, with bad, don't wanna too much.
+		Glad to meet and be friends with many good people, with bad, don't wanna too much.
 
-In a few words, I have a warm, non-conflict, friendly character.
+		In a few words, I have a warm, non-conflict, friendly character.
 
-Cause haven't too much coding experience, promise that will learn so fast than may, half joking, won't only learning but and use something that learned in projects and tasks, if it's necessary, so I can take to more new practice which is very important in my case.
+		Cause haven't too much coding experience, promise that will learn so fast than may, half joking, won't only learning but and use something that learned in projects and tasks, if it's necessary, so I can take to more new practice which is very important in my case.
 
-I'm not thinking that if would have a mentor upster me that He must do some actions so the atmosphere will be comfortable only for students. They should do something else to uprise mentor also, cause I know that we all humans and we need sometimes rest or hope of each others!
+		I'm not thinking that if would have a mentor upster me that He must do some actions so the atmosphere will be comfortable only for students. They should do something else to uprise mentor also, cause I know that we all humans and we need sometimes rest or hope of each others!
 
-It can sound egoistic and arrogantly but I have a mind which accepts new information fast, to improve memory and not forget what's learn I use mind program so every time if my memory cant helps me I go-to program to revise.
+		It can sound egoistic and arrogantly but I have a mind which accepts new information fast, to improve memory and not forget what's learn I use mind program so every time if my memory cant helps me I go-to program to revise.
 
 4. Skills: Can watch utube under x3-5-16, also read text very fast, Html, CSS, Flexbox, Grid, Sublime Text 3, Sublime plugins, Sublime Merge, Photoshop, chrome devtool, mozila devtool, chrome extentions, discord, and some other skills about which I forgot to write
 
