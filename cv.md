@@ -1,8 +1,8 @@
 ## Here is my CV welcome!
 
 
-1.:raising_hand_man: Maksym, Semeniuk
-
+1.:raising_hand_man: Maksym Semeniuk
+	
 2.:iphone: Discord: GreatLord#4643; Telegram: ฅ'ω'ฅ or +380953813574
 
 3.:dart: My goal's to become Front-end:sagittarius: dev at the end of it's all.
@@ -16,3 +16,11 @@ Cause haven't too much coding experience:baby:, promise that will learn so fast 
 I'm not thinking that if would have a mentor:man_teacher: upster me that He must do some actions so the atmosphere:part_alternation_mark: will be comfortable only for students. :man_student:They should do something else to uprise:punch::fist_left: mentor also, cause I know that we all humans and we need sometimes rest:sleeping_bed: or hope of each others:boy:!
 
 It can sound egoistic and arrogantly:man_astronaut: but I have a mind which accepts new information fast, to improve memory and not forget what's learn I use mind program so every time if my memory cant helps me I go-to program to revise:ok_man:.
+
+4. Skills: Html, CSS, Sublime Text 3, Sublime plugins, Sublime Merge, Photoshop, chrome devtool, mozila devtool, chrome extentions, discord, and some other skills about which I forgot to write
+5. Code examples (LATEST)
+6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
+freelance projects - wherever they had the opportunity to demonstrate skills they have.
+Also it would be awesome if you add links to source code)
+7. Education (including courses, seminars, lectures, online learning)
+8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
