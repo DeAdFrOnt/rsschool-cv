@@ -18,7 +18,7 @@ I'm not thinking that if would have a mentor:man_teacher: upster me that He must
 It can sound egoistic and arrogantly:man_astronaut: but I have a mind which accepts new information fast, to improve memory and not forget what's learn I use mind program so every time if my memory cant helps me I go-to program to revise:ok_man:.
 
 4. Skills: Html, CSS, Sublime Text 3, Sublime plugins, Sublime Merge, Photoshop, chrome devtool, mozila devtool, chrome extentions, discord, and some other skills about which I forgot to write
-5. Code examples (LATEST)
+5. Code examples: Caution! On those moment I didn't care about Naming!! [Here is my half-year old project](https://github.com/DeAdFrOnt/my-1st-project)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
