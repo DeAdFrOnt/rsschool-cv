@@ -1,5 +1,10 @@
-:raising_hand_man: 1. Maksym, Semeniuk
+##Here is my CV welcome!##
+
+
+:raising_hand_man: 1. Maksym, Semeniuk;
+
 :iphone: 2. Discord: GreatLord#4643; Telegram: ฅ'ω'ฅ or +380953813574;
+
 3. My goal's to become Front-end:sagittarius: dev at the end of it's all.
 
 Glad to meet and be friends with many good people:feet:, with bad, don't wanna too much:biohazard:.
