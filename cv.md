@@ -21,4 +21,4 @@ It can sound egoistic and arrogantly:man_astronaut: but I have a mind which acce
 5. Code examples: Caution! On that moment I didn't care about Naming!! [Here is my half-year-old project](https://github.com/DeAdFrOnt/my-1st-project)
 6. Experience: already made 1 project which above.
 7. Education: I watched too many videos about how to coding, but was exhausted cause of at the start overload myself and didn't make some kind of brake or motivation rise.
-8. English: (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+8. English: I work in Eng environment 10 months 3 year ago(passenger ship), also played in too many games on Eng, watched many Netflix serials, listening every day English music, read websites on Eng, use programs on Eng, etc.
