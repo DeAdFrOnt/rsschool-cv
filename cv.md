@@ -17,8 +17,8 @@ I'm not thinking that if would have a mentor:man_teacher: upster me that He must
 
 It can sound egoistic and arrogantly:man_astronaut: but I have a mind which accepts new information fast, to improve memory and not forget what's learn I use mind program so every time if my memory cant helps me I go-to program to revise:ok_man:.
 
-4. Skills: Can watch utube under x3-5-16, also read text very fast, Html, CSS, Flexbox, Grid, Sublime Text 3, Sublime plugins, Sublime Merge, Photoshop, chrome devtool, mozila devtool, chrome extentions, discord, and some other skills about which I forgot to write
-5. Code examples: Caution! On that moment I didn't care about Naming!! [Here is my half-year-old project](https://github.com/DeAdFrOnt/my-1st-project)
-6. Experience: already made 1 project which above.
-7. Education: I watched too many videos about how to coding, but was exhausted cause of at the start overload myself and didn't make some kind of brake or motivation rise.
-8. English: I work in Eng environment 10 months 3 year ago(passenger ship), also played in too many games on Eng, watched many Netflix serials, listening every day English music, read websites on Eng, use programs on Eng, etc.
+4.:bow_and_arrow: Skills: Can watch utube under x3-5-16:fast_forward:	:tv:, also read text very fast:books:, Html, CSS, Flexbox, Grid, Sublime Text 3, Sublime plugins, Sublime Merge, Photoshop, chrome devtool, mozila devtool, chrome extentions, discord, and some other skills about which I forgot to write
+5.:memo: Code examples: :warning:Caution! On that moment I didn't care about Naming!! [Here is my half-year-old project](https://github.com/DeAdFrOnt/my-1st-project)
+6.:airplane: Experience: already made 1 project which above.
+7.:computer: Education: I watched too many videos:minidisc: about how to coding, but was exhausted:arrow_down:	:battery: cause of at the start overload myself and didn't make some kind of brake or motivation rise.
+8.:heavy_check_mark: English: I work in Eng environment 10 months 3 year ago(:anchor:	:passenger_ship:passenger ship), also played in too many games on Eng:crossed_swords:, watched many Netflix serials:clapper:, listening every day English music:pause_button:, read websites on Eng:scroll:, use programs on Eng:gear:, etc.
