@@ -1,0 +1,1 @@
+:raising_hand_man: 1. Maksym, Semeniuk
