@@ -3,10 +3,14 @@
 body {
 	display: flex;
 	flex-direction: column;
-	font-family: serif;
-	font-size: 
+	justify-content: center;
+	align-items: center;
 	max-width: 1024px;
 	clear: both;
+
+	font-family: serif;
+	font-size: 
+
 }
 title {
 	display: none;
