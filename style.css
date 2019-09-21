@@ -1,0 +1,20 @@
+*{
+}
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	max-width: 1024px;
+	clear: both;
+
+	font-family: serif;
+	font-size: 
+
+}
+title {
+	display: none;
+}
+img {
+	max-width: 250px
+}
