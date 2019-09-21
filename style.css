@@ -2,13 +2,16 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	max-width: 1024px;
 }
 body {
 	font-family: serif;
 	font-size: 
-	
+	max-width: 1024px;
+	clear: both;
 }
 title {
 	display: none;
+}
+img {
+	max-width: 250px
 }
